@@ -18,6 +18,7 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (Time.timeScale <= 0f) return;
         Movement();
 
 
@@ -37,11 +38,27 @@ public class PlayerMovement : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag != "Untagged")
+        if (collision.tag == "Projectile1")
+        {
+            OnProjectileSave?.Invoke(5);
+            collision.gameObject.SetActive(false);
+        }
+        if (collision.tag == "Projectile2")
         {
             OnProjectileSave?.Invoke(10);
-            Destroy(collision.gameObject);
+            collision.gameObject.SetActive(false);
         }
+        if (collision.tag == "Projectile3")
+        {
+            OnProjectileSave?.Invoke(15);
+            collision.gameObject.SetActive(false);
+        }
+        if (collision.tag == "Bomb")
+        {
+            PlayerDeadZone.ProjectileHit(20);
+            collision.gameObject.SetActive(false);
+        }
+
     }
 
 

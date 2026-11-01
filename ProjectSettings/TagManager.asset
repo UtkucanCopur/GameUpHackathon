@@ -7,6 +7,7 @@ TagManager:
   - Projectile1
   - Projectile2
   - Projectile3
+  - Bomb
   layers:
   - Default
   - TransparentFX

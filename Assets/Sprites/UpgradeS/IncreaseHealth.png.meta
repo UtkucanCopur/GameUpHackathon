@@ -1,0 +1,2184 @@
+fileFormatVersion: 2
+guid: 7ec1123ca56caef438cb207872d6a3a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7660286873782349854
+    second: IncreaseHealth_0
+  - first:
+      213: -1194543535274927827
+    second: IncreaseHealth_1
+  - first:
+      213: 4424948756468196049
+    second: IncreaseHealth_2
+  - first:
+      213: -7233465507069527220
+    second: IncreaseHealth_3
+  - first:
+      213: -3030564984581438946
+    second: IncreaseHealth_4
+  - first:
+      213: 2432941888453532818
+    second: IncreaseHealth_5
+  - first:
+      213: -3322718560349554687
+    second: IncreaseHealth_6
+  - first:
+      213: -6578086910612086207
+    second: IncreaseHealth_7
+  - first:
+      213: 1506844467859548762
+    second: IncreaseHealth_8
+  - first:
+      213: -5998342224238079687
+    second: IncreaseHealth_9
+  - first:
+      213: -5006263409294201014
+    second: IncreaseHealth_10
+  - first:
+      213: 9172516347953619842
+    second: IncreaseHealth_11
+  - first:
+      213: -7573074268876813827
+    second: IncreaseHealth_12
+  - first:
+      213: -3631841215717528985
+    second: IncreaseHealth_13
+  - first:
+      213: -3117633886760161888
+    second: IncreaseHealth_14
+  - first:
+      213: 3754679156845250118
+    second: IncreaseHealth_15
+  - first:
+      213: -6283558599964450903
+    second: IncreaseHealth_16
+  - first:
+      213: 1764005246206386026
+    second: IncreaseHealth_17
+  - first:
+      213: 6545659092798624612
+    second: IncreaseHealth_18
+  - first:
+      213: -8730712026168531970
+    second: IncreaseHealth_19
+  - first:
+      213: 3026131150335125806
+    second: IncreaseHealth_20
+  - first:
+      213: -7984211565274139268
+    second: IncreaseHealth_21
+  - first:
+      213: -8392350002436911985
+    second: IncreaseHealth_22
+  - first:
+      213: 4732880938125718753
+    second: IncreaseHealth_23
+  - first:
+      213: 7470938188572026451
+    second: IncreaseHealth_24
+  - first:
+      213: 2010398543372511112
+    second: IncreaseHealth_25
+  - first:
+      213: 3280020691077290917
+    second: IncreaseHealth_26
+  - first:
+      213: -1500360960323500194
+    second: IncreaseHealth_27
+  - first:
+      213: -7926565486641373018
+    second: IncreaseHealth_28
+  - first:
+      213: 2478466004725011681
+    second: IncreaseHealth_29
+  - first:
+      213: 7931970572872878148
+    second: IncreaseHealth_30
+  - first:
+      213: 5490051195118571228
+    second: IncreaseHealth_31
+  - first:
+      213: -7866875928700362413
+    second: IncreaseHealth_32
+  - first:
+      213: -8943771462667363063
+    second: IncreaseHealth_33
+  - first:
+      213: -365716671172013806
+    second: IncreaseHealth_34
+  - first:
+      213: 1046030171915394889
+    second: IncreaseHealth_35
+  - first:
+      213: 6451157155855944509
+    second: IncreaseHealth_36
+  - first:
+      213: 1612292266229083565
+    second: IncreaseHealth_37
+  - first:
+      213: -6889309310678521795
+    second: IncreaseHealth_38
+  - first:
+      213: -1259648525269824429
+    second: IncreaseHealth_39
+  - first:
+      213: 7693930527817814477
+    second: IncreaseHealth_40
+  - first:
+      213: 7907253904741858918
+    second: IncreaseHealth_41
+  - first:
+      213: 287456624416677791
+    second: IncreaseHealth_42
+  - first:
+      213: 5407891935992560493
+    second: IncreaseHealth_43
+  - first:
+      213: -9136157414766919567
+    second: IncreaseHealth_44
+  - first:
+      213: 8466479127169496905
+    second: IncreaseHealth_45
+  - first:
+      213: 3641213375429733071
+    second: IncreaseHealth_46
+  - first:
+      213: -88395244541035390
+    second: IncreaseHealth_47
+  - first:
+      213: 739855283039313708
+    second: IncreaseHealth_48
+  - first:
+      213: -2321847036909544294
+    second: IncreaseHealth_49
+  - first:
+      213: -2376488625318986525
+    second: IncreaseHealth_50
+  - first:
+      213: 8805338877343136601
+    second: IncreaseHealth_51
+  - first:
+      213: -6224035431489629128
+    second: IncreaseHealth_52
+  - first:
+      213: 1172183910026325220
+    second: IncreaseHealth_53
+  - first:
+      213: -5148087382006920673
+    second: IncreaseHealth_54
+  - first:
+      213: 3761699127262071230
+    second: IncreaseHealth_55
+  - first:
+      213: 3354414981066761231
+    second: IncreaseHealth_56
+  - first:
+      213: 6621677762298300127
+    second: IncreaseHealth_57
+  - first:
+      213: 6495332209467891022
+    second: IncreaseHealth_58
+  - first:
+      213: 8036409149831781315
+    second: IncreaseHealth_59
+  - first:
+      213: 8224075002323276119
+    second: IncreaseHealth_60
+  - first:
+      213: -768865458157227956
+    second: IncreaseHealth_61
+  - first:
+      213: 9009382279428491926
+    second: IncreaseHealth_62
+  - first:
+      213: 7072025190328922449
+    second: IncreaseHealth_63
+  - first:
+      213: 5567548097415876344
+    second: IncreaseHealth_64
+  - first:
+      213: -2080533968571953076
+    second: IncreaseHealth_65
+  - first:
+      213: 691345044716173499
+    second: IncreaseHealth_66
+  - first:
+      213: -1872309846019136312
+    second: IncreaseHealth_67
+  - first:
+      213: -527485876202117697
+    second: IncreaseHealth_68
+  - first:
+      213: 6354862432018103846
+    second: IncreaseHealth_69
+  - first:
+      213: 4673755372183192367
+    second: IncreaseHealth_70
+  - first:
+      213: -1191396698807256454
+    second: IncreaseHealth_71
+  - first:
+      213: 2288485688587617494
+    second: IncreaseHealth_72
+  - first:
+      213: 6441621230260879309
+    second: IncreaseHealth_73
+  - first:
+      213: -591902096356105286
+    second: IncreaseHealth_74
+  - first:
+      213: -7843385924789876536
+    second: IncreaseHealth_75
+  - first:
+      213: -2816797759561054170
+    second: IncreaseHealth_76
+  - first:
+      213: -2521052397534022788
+    second: IncreaseHealth_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IncreaseHealth_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1175
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef8d9a9ca131b590800000000000000
+      internalID: -7660286873782349854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1197
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29d23fcbf02c6fe0800000000000000
+      internalID: -1194543535274927827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1204
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2e79a1373986d30800000000000000
+      internalID: 4424948756468196049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1211
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b741422719d9b90800000000000000
+      internalID: -7233465507069527220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_4
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1191
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e124941043541f5d0800000000000000
+      internalID: -3030564984581438946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1181
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cd07cd1cb83c120800000000000000
+      internalID: 2432941888453532818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_6
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1213
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10874c9e21553e1d0800000000000000
+      internalID: -3322718560349554687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_7
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1213
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142e1579ec0f5b4a0800000000000000
+      internalID: -6578086910612086207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_8
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1162
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ae7865f0369e410800000000000000
+      internalID: 1506844467859548762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_9
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1197
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9311013178b91cca0800000000000000
+      internalID: -5998342224238079687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_10
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1211
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fabfc14fd268ab0800000000000000
+      internalID: -5006263409294201014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_11
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1189
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2832d3835035b4f70800000000000000
+      internalID: 9172516347953619842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_12
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1211
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df942f9831907e690800000000000000
+      internalID: -7573074268876813827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_13
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1218
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aa88818ab199dc0800000000000000
+      internalID: -3631841215717528985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_14
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1122
+        width: 41
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ada0f77f70fbb4d0800000000000000
+      internalID: -3117633886760161888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1254
+        height: 1206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646035dcccc4b1430800000000000000
+      internalID: 3754679156845250118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1189
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af94cbbeb05cc8a0800000000000000
+      internalID: -6283558599964450903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_17
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1181
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f9e02ec610b7810800000000000000
+      internalID: 1764005246206386026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_18
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 969
+        width: 102
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4635117b34ad6da50800000000000000
+      internalID: 6545659092798624612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_19
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1184
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef36ef36ba746d680800000000000000
+      internalID: -8730712026168531970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_20
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1181
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2928738f3afef920800000000000000
+      internalID: 3026131150335125806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_21
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1179
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75f44032e1623190800000000000000
+      internalID: -7984211565274139268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_22
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1187
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ccff92322688b80800000000000000
+      internalID: -8392350002436911985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_23
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1179
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4733923229ea140800000000000000
+      internalID: 4732880938125718753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_24
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1101
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3566cb423ba1ea760800000000000000
+      internalID: 7470938188572026451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_25
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1126
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8876eaad2de56eb10800000000000000
+      internalID: 2010398543372511112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1102
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abd793b079f48d20800000000000000
+      internalID: 3280020691077290917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_27
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1102
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57cd05e7a5ad2be0800000000000000
+      internalID: -1500360960323500194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_28
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 914
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0aed7cfae2ff190800000000000000
+      internalID: -7926565486641373018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_29
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 996
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4148723b7456220800000000000000
+      internalID: 2478466004725011681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_30
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 946
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44880fce535041e60800000000000000
+      internalID: 7931970572872878148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_31
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 891
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde40c37974903c40800000000000000
+      internalID: 5490051195118571228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_32
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 883
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3516eb9f50e33d290800000000000000
+      internalID: -7866875928700362413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_33
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 776
+        width: 150
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d9f67ad3751e380800000000000000
+      internalID: -8943771462667363063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_34
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 763
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2119a5e00a6bceaf0800000000000000
+      internalID: -365716671172013806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_35
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 708
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f9b5536ee348e00800000000000000
+      internalID: 1046030171915394889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_36
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 698
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b4309e04d178950800000000000000
+      internalID: 6451157155855944509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_37
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 690
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dada1ba1643006610800000000000000
+      internalID: 1612292266229083565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_38
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 632
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38273ddea14460a0800000000000000
+      internalID: -6889309310678521795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_39
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 610
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c82751754d48ee0800000000000000
+      internalID: -1259648525269824429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_40
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 618
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc15d150d0556ca60800000000000000
+      internalID: 7693930527817814477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_41
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 581
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e75fc28853cbd60800000000000000
+      internalID: 7907253904741858918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_42
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 341
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f50b2e6404df300800000000000000
+      internalID: 287456624416677791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 271
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b39844011bc0b40800000000000000
+      internalID: 5407891935992560493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_44
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 200
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17044c89c39d53180800000000000000
+      internalID: -9136157414766919567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_45
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 187
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9477239a8e9fe7570800000000000000
+      internalID: 8466479127169496905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_46
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 184
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcae3e1e540388230800000000000000
+      internalID: 3641213375429733071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_47
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c3c415ef4f5cef0800000000000000
+      internalID: -88395244541035390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_48
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 134
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f11c2c57e744a00800000000000000
+      internalID: 739855283039313708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_49
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 13
+        width: 112
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c963eeb6427cfd0800000000000000
+      internalID: -2321847036909544294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_50
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 121
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecfa1bbf24050fd0800000000000000
+      internalID: -2376488625318986525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_51
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 133
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b79f66e09d23a70800000000000000
+      internalID: 8805338877343136601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_52
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 128
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8349d9c50c8cf99a0800000000000000
+      internalID: -6224035431489629128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_53
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 93
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec2c804e0f644010800000000000000
+      internalID: 1172183910026325220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_54
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 67
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a8ec24dc15e88b0800000000000000
+      internalID: -5148087382006920673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_55
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 113
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb94a580d6d343430800000000000000
+      internalID: 3761699127262071230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_56
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 91
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04abbf17a64d8e20800000000000000
+      internalID: 3354414981066761231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_57
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 102
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6c4e677dce4eb50800000000000000
+      internalID: 6621677762298300127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_58
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 77
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d9c731b3e042a50800000000000000
+      internalID: 6495332209467891022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_59
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 85
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb1c650b8f078f60800000000000000
+      internalID: 8036409149831781315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_60
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 78
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75116af34a8c12270800000000000000
+      internalID: 8224075002323276119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_61
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 32
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40787e70f07455f0800000000000000
+      internalID: -768865458157227956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_62
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 65
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ac80b0371c70d70800000000000000
+      internalID: 9009382279428491926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_63
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 65
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1517b200171e42260800000000000000
+      internalID: 7072025190328922449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_64
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 70
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe00681f77e34d40800000000000000
+      internalID: 5567548097415876344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_65
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 61
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c409224f0657023e0800000000000000
+      internalID: -2080533968571953076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_66
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 39
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8b88fb7a6289900800000000000000
+      internalID: 691345044716173499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_67
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 55
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4209e6d183406e0800000000000000
+      internalID: -1872309846019136312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_68
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 55
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5efece36efda8f0800000000000000
+      internalID: -527485876202117697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_69
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 47
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ef9e066b1013850800000000000000
+      internalID: 6354862432018103846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_70
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 53
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f238d069fb38cd040800000000000000
+      internalID: 4673755372183192367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_71
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 29
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a3505c30f477fe0800000000000000
+      internalID: -1191396698807256454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_72
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 36
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d484dddb9552cf10800000000000000
+      internalID: 2288485688587617494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_73
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 30
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf7057316c356950800000000000000
+      internalID: 6441621230260879309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_74
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 39
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3a2eced2429c7f0800000000000000
+      internalID: -591902096356105286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_75
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 7
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8c994be02b62390800000000000000
+      internalID: -7843385924789876536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_76
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 17
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6284f399c59b8e8d0800000000000000
+      internalID: -2816797759561054170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseHealth_77
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 15
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7376d8933c630dd0800000000000000
+      internalID: -2521052397534022788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IncreaseHealth_0: -7660286873782349854
+      IncreaseHealth_1: -1194543535274927827
+      IncreaseHealth_10: -5006263409294201014
+      IncreaseHealth_11: 9172516347953619842
+      IncreaseHealth_12: -7573074268876813827
+      IncreaseHealth_13: -3631841215717528985
+      IncreaseHealth_14: -3117633886760161888
+      IncreaseHealth_15: 3754679156845250118
+      IncreaseHealth_16: -6283558599964450903
+      IncreaseHealth_17: 1764005246206386026
+      IncreaseHealth_18: 6545659092798624612
+      IncreaseHealth_19: -8730712026168531970
+      IncreaseHealth_2: 4424948756468196049
+      IncreaseHealth_20: 3026131150335125806
+      IncreaseHealth_21: -7984211565274139268
+      IncreaseHealth_22: -8392350002436911985
+      IncreaseHealth_23: 4732880938125718753
+      IncreaseHealth_24: 7470938188572026451
+      IncreaseHealth_25: 2010398543372511112
+      IncreaseHealth_26: 3280020691077290917
+      IncreaseHealth_27: -1500360960323500194
+      IncreaseHealth_28: -7926565486641373018
+      IncreaseHealth_29: 2478466004725011681
+      IncreaseHealth_3: -7233465507069527220
+      IncreaseHealth_30: 7931970572872878148
+      IncreaseHealth_31: 5490051195118571228
+      IncreaseHealth_32: -7866875928700362413
+      IncreaseHealth_33: -8943771462667363063
+      IncreaseHealth_34: -365716671172013806
+      IncreaseHealth_35: 1046030171915394889
+      IncreaseHealth_36: 6451157155855944509
+      IncreaseHealth_37: 1612292266229083565
+      IncreaseHealth_38: -6889309310678521795
+      IncreaseHealth_39: -1259648525269824429
+      IncreaseHealth_4: -3030564984581438946
+      IncreaseHealth_40: 7693930527817814477
+      IncreaseHealth_41: 7907253904741858918
+      IncreaseHealth_42: 287456624416677791
+      IncreaseHealth_43: 5407891935992560493
+      IncreaseHealth_44: -9136157414766919567
+      IncreaseHealth_45: 8466479127169496905
+      IncreaseHealth_46: 3641213375429733071
+      IncreaseHealth_47: -88395244541035390
+      IncreaseHealth_48: 739855283039313708
+      IncreaseHealth_49: -2321847036909544294
+      IncreaseHealth_5: 2432941888453532818
+      IncreaseHealth_50: -2376488625318986525
+      IncreaseHealth_51: 8805338877343136601
+      IncreaseHealth_52: -6224035431489629128
+      IncreaseHealth_53: 1172183910026325220
+      IncreaseHealth_54: -5148087382006920673
+      IncreaseHealth_55: 3761699127262071230
+      IncreaseHealth_56: 3354414981066761231
+      IncreaseHealth_57: 6621677762298300127
+      IncreaseHealth_58: 6495332209467891022
+      IncreaseHealth_59: 8036409149831781315
+      IncreaseHealth_6: -3322718560349554687
+      IncreaseHealth_60: 8224075002323276119
+      IncreaseHealth_61: -768865458157227956
+      IncreaseHealth_62: 9009382279428491926
+      IncreaseHealth_63: 7072025190328922449
+      IncreaseHealth_64: 5567548097415876344
+      IncreaseHealth_65: -2080533968571953076
+      IncreaseHealth_66: 691345044716173499
+      IncreaseHealth_67: -1872309846019136312
+      IncreaseHealth_68: -527485876202117697
+      IncreaseHealth_69: 6354862432018103846
+      IncreaseHealth_7: -6578086910612086207
+      IncreaseHealth_70: 4673755372183192367
+      IncreaseHealth_71: -1191396698807256454
+      IncreaseHealth_72: 2288485688587617494
+      IncreaseHealth_73: 6441621230260879309
+      IncreaseHealth_74: -591902096356105286
+      IncreaseHealth_75: -7843385924789876536
+      IncreaseHealth_76: -2816797759561054170
+      IncreaseHealth_77: -2521052397534022788
+      IncreaseHealth_8: 1506844467859548762
+      IncreaseHealth_9: -5998342224238079687
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

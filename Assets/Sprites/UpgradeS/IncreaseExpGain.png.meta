@@ -1,0 +1,3094 @@
+fileFormatVersion: 2
+guid: 9f5b870502af04f4e9773ec23ddde840
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1018820932017141637
+    second: IncreaseExpGain_0
+  - first:
+      213: 7037487605805663531
+    second: IncreaseExpGain_1
+  - first:
+      213: 2995031966063576367
+    second: IncreaseExpGain_2
+  - first:
+      213: 7180716559253844706
+    second: IncreaseExpGain_3
+  - first:
+      213: -4551218813668649526
+    second: IncreaseExpGain_4
+  - first:
+      213: -7726227750718224107
+    second: IncreaseExpGain_5
+  - first:
+      213: 88875483858279193
+    second: IncreaseExpGain_6
+  - first:
+      213: -6732008547516980849
+    second: IncreaseExpGain_7
+  - first:
+      213: -5833306171706281443
+    second: IncreaseExpGain_8
+  - first:
+      213: -2582112145704273369
+    second: IncreaseExpGain_9
+  - first:
+      213: -7823928873372178490
+    second: IncreaseExpGain_10
+  - first:
+      213: -2989814157517613987
+    second: IncreaseExpGain_11
+  - first:
+      213: 1577719658104944187
+    second: IncreaseExpGain_12
+  - first:
+      213: -7869807125026048641
+    second: IncreaseExpGain_13
+  - first:
+      213: 6085648724054058722
+    second: IncreaseExpGain_14
+  - first:
+      213: -7389913500907743737
+    second: IncreaseExpGain_15
+  - first:
+      213: -903751550825250798
+    second: IncreaseExpGain_16
+  - first:
+      213: -8689108780211000861
+    second: IncreaseExpGain_17
+  - first:
+      213: -1176200839030185251
+    second: IncreaseExpGain_18
+  - first:
+      213: 9151581227969173123
+    second: IncreaseExpGain_19
+  - first:
+      213: 7600131586783930250
+    second: IncreaseExpGain_20
+  - first:
+      213: -4539282133593690104
+    second: IncreaseExpGain_21
+  - first:
+      213: -7220505861538310216
+    second: IncreaseExpGain_22
+  - first:
+      213: -530068519585997180
+    second: IncreaseExpGain_23
+  - first:
+      213: 1218436296288565397
+    second: IncreaseExpGain_24
+  - first:
+      213: 8245514987293451837
+    second: IncreaseExpGain_25
+  - first:
+      213: -7048922387242214287
+    second: IncreaseExpGain_26
+  - first:
+      213: -5511973762645809549
+    second: IncreaseExpGain_27
+  - first:
+      213: 2365857240825382671
+    second: IncreaseExpGain_28
+  - first:
+      213: 5825926535110604125
+    second: IncreaseExpGain_29
+  - first:
+      213: 6424032202617652454
+    second: IncreaseExpGain_30
+  - first:
+      213: 378936663197620348
+    second: IncreaseExpGain_31
+  - first:
+      213: 9031502048236081248
+    second: IncreaseExpGain_32
+  - first:
+      213: 6254278170688505610
+    second: IncreaseExpGain_33
+  - first:
+      213: 3357652752522275563
+    second: IncreaseExpGain_34
+  - first:
+      213: 5261711725683745331
+    second: IncreaseExpGain_35
+  - first:
+      213: -1795754249895226806
+    second: IncreaseExpGain_36
+  - first:
+      213: 1470836535342749684
+    second: IncreaseExpGain_37
+  - first:
+      213: -2965270942368492276
+    second: IncreaseExpGain_38
+  - first:
+      213: -2974803193650865454
+    second: IncreaseExpGain_39
+  - first:
+      213: 4217209427626514969
+    second: IncreaseExpGain_40
+  - first:
+      213: 5968932642870995642
+    second: IncreaseExpGain_41
+  - first:
+      213: -1851268629780417771
+    second: IncreaseExpGain_42
+  - first:
+      213: 7669099189324313920
+    second: IncreaseExpGain_43
+  - first:
+      213: -2102669019446626637
+    second: IncreaseExpGain_44
+  - first:
+      213: 6060094919818669392
+    second: IncreaseExpGain_45
+  - first:
+      213: 1290642493518097308
+    second: IncreaseExpGain_46
+  - first:
+      213: 2062757364056937528
+    second: IncreaseExpGain_47
+  - first:
+      213: -2402571655332389801
+    second: IncreaseExpGain_48
+  - first:
+      213: 6931297106013325352
+    second: IncreaseExpGain_49
+  - first:
+      213: 2328895475808603899
+    second: IncreaseExpGain_50
+  - first:
+      213: -6127174623484110562
+    second: IncreaseExpGain_51
+  - first:
+      213: -2666526920959697190
+    second: IncreaseExpGain_52
+  - first:
+      213: -621373639393987104
+    second: IncreaseExpGain_53
+  - first:
+      213: 5209704481145946406
+    second: IncreaseExpGain_54
+  - first:
+      213: -7869542839153678725
+    second: IncreaseExpGain_55
+  - first:
+      213: 4130876300932896964
+    second: IncreaseExpGain_56
+  - first:
+      213: -3880796777265097501
+    second: IncreaseExpGain_57
+  - first:
+      213: 4722823223837715727
+    second: IncreaseExpGain_58
+  - first:
+      213: 2107669264720772776
+    second: IncreaseExpGain_59
+  - first:
+      213: 580220363710491725
+    second: IncreaseExpGain_60
+  - first:
+      213: -2116740934431875356
+    second: IncreaseExpGain_61
+  - first:
+      213: -3330459380176967977
+    second: IncreaseExpGain_62
+  - first:
+      213: 4946987287501326071
+    second: IncreaseExpGain_63
+  - first:
+      213: 837633156410044440
+    second: IncreaseExpGain_64
+  - first:
+      213: -8610547932528606573
+    second: IncreaseExpGain_65
+  - first:
+      213: -1731452800531522952
+    second: IncreaseExpGain_66
+  - first:
+      213: -2331791098262813046
+    second: IncreaseExpGain_67
+  - first:
+      213: -5966062395222870942
+    second: IncreaseExpGain_68
+  - first:
+      213: 196012759165687751
+    second: IncreaseExpGain_69
+  - first:
+      213: -1111566159195628439
+    second: IncreaseExpGain_70
+  - first:
+      213: -7099195420798233247
+    second: IncreaseExpGain_71
+  - first:
+      213: -3313176923875081193
+    second: IncreaseExpGain_72
+  - first:
+      213: -3120773997214156636
+    second: IncreaseExpGain_73
+  - first:
+      213: -3298190929152000952
+    second: IncreaseExpGain_74
+  - first:
+      213: 5609464180175750335
+    second: IncreaseExpGain_75
+  - first:
+      213: -3262796739812949826
+    second: IncreaseExpGain_76
+  - first:
+      213: -5802380079516963414
+    second: IncreaseExpGain_77
+  - first:
+      213: 8381870697728868122
+    second: IncreaseExpGain_78
+  - first:
+      213: 5877451500005563041
+    second: IncreaseExpGain_79
+  - first:
+      213: 5310391425943219749
+    second: IncreaseExpGain_80
+  - first:
+      213: 8118639698198364233
+    second: IncreaseExpGain_81
+  - first:
+      213: 3517869229165511553
+    second: IncreaseExpGain_82
+  - first:
+      213: 1915702183393084266
+    second: IncreaseExpGain_83
+  - first:
+      213: -646128732632047660
+    second: IncreaseExpGain_84
+  - first:
+      213: -4263916136499423926
+    second: IncreaseExpGain_85
+  - first:
+      213: 1077727325646280087
+    second: IncreaseExpGain_86
+  - first:
+      213: -8950814066459447951
+    second: IncreaseExpGain_87
+  - first:
+      213: 7974958609602304239
+    second: IncreaseExpGain_88
+  - first:
+      213: 3034645845026511103
+    second: IncreaseExpGain_89
+  - first:
+      213: -4344454850896490350
+    second: IncreaseExpGain_90
+  - first:
+      213: 1177325923767798189
+    second: IncreaseExpGain_91
+  - first:
+      213: 5914135700026650855
+    second: IncreaseExpGain_92
+  - first:
+      213: -3748780165176902480
+    second: IncreaseExpGain_93
+  - first:
+      213: -1747993507672084887
+    second: IncreaseExpGain_94
+  - first:
+      213: 6546113667386719270
+    second: IncreaseExpGain_95
+  - first:
+      213: -6237352390255390637
+    second: IncreaseExpGain_96
+  - first:
+      213: -6061973938335780787
+    second: IncreaseExpGain_97
+  - first:
+      213: 1298668745986202101
+    second: IncreaseExpGain_98
+  - first:
+      213: -3586088408495370312
+    second: IncreaseExpGain_99
+  - first:
+      213: -864884245026093792
+    second: IncreaseExpGain_100
+  - first:
+      213: 4247319777866628273
+    second: IncreaseExpGain_101
+  - first:
+      213: 3230763919096521924
+    second: IncreaseExpGain_102
+  - first:
+      213: -5889059802483041064
+    second: IncreaseExpGain_103
+  - first:
+      213: 330035337180742117
+    second: IncreaseExpGain_104
+  - first:
+      213: 2615646742165152425
+    second: IncreaseExpGain_105
+  - first:
+      213: -3502036992336852121
+    second: IncreaseExpGain_106
+  - first:
+      213: -8998489550150590459
+    second: IncreaseExpGain_107
+  - first:
+      213: 2655207709083533471
+    second: IncreaseExpGain_108
+  - first:
+      213: 7579318177164099309
+    second: IncreaseExpGain_109
+  - first:
+      213: 1290255538116768255
+    second: IncreaseExpGain_110
+  - first:
+      213: -6336104474078635509
+    second: IncreaseExpGain_111
+  - first:
+      213: -8875744254584825532
+    second: IncreaseExpGain_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IncreaseExpGain_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1202
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5873d9e5d34932e00800000000000000
+      internalID: 1018820932017141637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_1
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1247
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25c247f0bd2aa160800000000000000
+      internalID: 7037487605805663531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_2
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1231
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25c82c64bd709920800000000000000
+      internalID: 2995031966063576367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_3
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1175
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e237136aa707a360800000000000000
+      internalID: 7180716559253844706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_4
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1240
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac594343a92d6d0c0800000000000000
+      internalID: -4551218813668649526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1203
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519cca8cbcce6c490800000000000000
+      internalID: -7726227750718224107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1219
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b1d9c18cfbb3100800000000000000
+      internalID: 88875483858279193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1190
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f816b5cc4e91392a0800000000000000
+      internalID: -6732008547516980849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1209
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d127a5961feeb0fa0800000000000000
+      internalID: -5833306171706281443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1221
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a33112fae7a2cd0800000000000000
+      internalID: -2582112145704273369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1131
+        width: 142
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7aab28422db6390800000000000000
+      internalID: -7823928873372178490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_11
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1193
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d549abc4ddb0286d0800000000000000
+      internalID: -2989814157517613987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_12
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1189
+        width: 91
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36fe708baf25e510800000000000000
+      internalID: 1577719658104944187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_13
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1180
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75fbf5ad14d8c290800000000000000
+      internalID: -7869807125026048641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_14
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 864
+        width: 218
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e62d097541947450800000000000000
+      internalID: 6085648724054058722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_15
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1224
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706d78903d0c17990800000000000000
+      internalID: -7389913500907743737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_16
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1221
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2104ad7b0ca3573f0800000000000000
+      internalID: -903751550825250798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_17
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1197
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9abcce9951a6780800000000000000
+      internalID: -8689108780211000861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1158
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2e615919b4dafe0800000000000000
+      internalID: -1176200839030185251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1179
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3865c32c3a2f00f70800000000000000
+      internalID: 9151581227969173123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1197
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a876b743967197960800000000000000
+      internalID: 7600131586783930250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_21
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1188
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800fedb13fa3101c0800000000000000
+      internalID: -4539282133593690104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1087
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b71260cc2c9bcb90800000000000000
+      internalID: -7220505861538310216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1190
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e95776d71d4a8f0800000000000000
+      internalID: -530068519585997180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_24
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1173
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598f8bd1b51c8e010800000000000000
+      internalID: 1218436296288565397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_25
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1191
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3629cfb134fd6270800000000000000
+      internalID: 8245514987293451837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_26
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1183
+        width: 96
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c11238f623d2e90800000000000000
+      internalID: -7048922387242214287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_27
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1175
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376293a01198183b0800000000000000
+      internalID: -5511973762645809549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_28
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 1187
+        height: 1187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07ceac20a635d020800000000000000
+      internalID: 2365857240825382671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1171
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d553acc0159d9d050800000000000000
+      internalID: 5825926535110604125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1162
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e402b6904fb62950800000000000000
+      internalID: 6424032202617652454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1165
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78144233e0424500800000000000000
+      internalID: 378936663197620348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1122
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060135d0347565d70800000000000000
+      internalID: 9031502048236081248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_33
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1173
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a074e521cd8abc650800000000000000
+      internalID: 6254278170688505610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_34
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1159
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beae3398367c89e20800000000000000
+      internalID: 3357652752522275563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 937
+        width: 168
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33223efcfea550940800000000000000
+      internalID: 5261711725683745331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_36
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1114
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42d81726033417e0800000000000000
+      internalID: -1795754249895226806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_37
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1146
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f755cb3906796410800000000000000
+      internalID: 1470836535342749684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_38
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1113
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c059651e9cd39d6d0800000000000000
+      internalID: -2965270942368492276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_39
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1079
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da1ebda14067b6d0800000000000000
+      internalID: -2974803193650865454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_40
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a5b1571a9868a30800000000000000
+      internalID: 4217209427626514969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_41
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1012
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba2f8a2d98e5d250800000000000000
+      internalID: 5968932642870995642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_42
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1058
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5133d1a5df8fe46e0800000000000000
+      internalID: -1851268629780417771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_43
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 993
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04579ee741d1e6a60800000000000000
+      internalID: 7669099189324313920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_44
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1022
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b63aafcaa1d1d2e0800000000000000
+      internalID: -2102669019446626637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_45
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 980
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05de0f8c838c91450800000000000000
+      internalID: 6060094919818669392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_46
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 939
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bab2e728849e110800000000000000
+      internalID: 1290642493518097308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_47
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 921
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8345f66c4e260ac10800000000000000
+      internalID: 2062757364056937528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 917
+        width: 5
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c9d701fc958aed0800000000000000
+      internalID: -2402571655332389801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_49
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 949
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8280e9c8ef9e03060800000000000000
+      internalID: 6931297106013325352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_50
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 892
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe0692a816e15020800000000000000
+      internalID: 2328895475808603899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_51
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 929
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e191172a427e7faa0800000000000000
+      internalID: -6127174623484110562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 874
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade5e2ca4e79efad0800000000000000
+      internalID: -2666526920959697190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_53
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 899
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5312797ff6067f0800000000000000
+      internalID: -621373639393987104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_54
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 905
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62107779f969c4840800000000000000
+      internalID: 5209704481145946406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_55
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 871
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76a68f7b74c9c290800000000000000
+      internalID: -7869542839153678725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_56
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 863
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c85f200c12d35930800000000000000
+      internalID: 4130876300932896964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 859
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e412a574e3a42ac0800000000000000
+      internalID: -3880796777265097501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 822
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0defc113b6da8140800000000000000
+      internalID: 4722823223837715727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 771
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aeb0b38702ff3d10800000000000000
+      internalID: 2107669264720772776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 833
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c696eb85b5d0800800000000000000
+      internalID: 580220363710491725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 761
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eed8a9c553df92e0800000000000000
+      internalID: -2116740934431875356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_62
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 805
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d62fa9d6d4d7c1d0800000000000000
+      internalID: -3330459380176967977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_63
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 799
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6c3eb4aba37a440800000000000000
+      internalID: 4946987287501326071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 15
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810f8e3faeedf9b00800000000000000
+      internalID: 837633156410044440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 753
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3928828a640318880800000000000000
+      internalID: -8610547932528606573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_66
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 727
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a96fef9d4a8f7e0800000000000000
+      internalID: -1731452800531522952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_67
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 713
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8680a9b950d3afd0800000000000000
+      internalID: -2331791098262813046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_68
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 722
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264bce07cd9443da0800000000000000
+      internalID: -5966062395222870942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_69
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 709
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7d381e09068b200800000000000000
+      internalID: 196012759165687751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_70
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 690
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c9cc0b77ce290f0800000000000000
+      internalID: -1111566159195628439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_71
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 650
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165dd30c0679a7d90800000000000000
+      internalID: -7099195420798233247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_72
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 664
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7148766442b3502d0800000000000000
+      internalID: -3313176923875081193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_73
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 692
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a836c78598c0b4d0800000000000000
+      internalID: -3120773997214156636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 666
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cba7213d87a32d0800000000000000
+      internalID: -3298190929152000952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_75
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 632
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb447af93f1d8dd40800000000000000
+      internalID: 5609464180175750335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_76
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 626
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb08525f6a738b2d0800000000000000
+      internalID: -3262796739812949826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aada69c5f0ec97fa0800000000000000
+      internalID: -5802380079516963414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 491
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f72639df2625470800000000000000
+      internalID: 8381870697728868122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 5
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa1b6acff6e09150800000000000000
+      internalID: 5877451500005563041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e20a1cddc42b940800000000000000
+      internalID: 5310391425943219749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_81
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 391
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9408f768ac33ba070800000000000000
+      internalID: 8118639698198364233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_82
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 399
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18300baec6bf1d030800000000000000
+      internalID: 3517869229165511553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_83
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 381
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63c5986cf0f59a10800000000000000
+      internalID: 1915702183393084266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_84
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 268
+        width: 74
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df1b4c475d7807f0800000000000000
+      internalID: -646128732632047660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_85
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 353
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4555e37dd683d4c0800000000000000
+      internalID: -4263916136499423926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795d0e9ea4bd4fe00800000000000000
+      internalID: 1077727325646280087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_87
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 202
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d6d1ea70258c380800000000000000
+      internalID: -8950814066459447951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_88
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 256
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8d9cf2a9ebcae60800000000000000
+      internalID: 7974958609602304239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_89
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 214
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff89beb515a3d1a20800000000000000
+      internalID: 3034645845026511103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_90
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 186
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290979db45565b3c0800000000000000
+      internalID: -4344454850896490350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 200
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9c90f90b3b65010800000000000000
+      internalID: 1177325923767798189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_92
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 149
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e07b81b51b331250800000000000000
+      internalID: 5914135700026650855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_93
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 167
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcb9993d48a9fbc0800000000000000
+      internalID: -3748780165176902480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_94
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 152
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e24818a21edb7e0800000000000000
+      internalID: -1747993507672084887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c3aeb92b778da50800000000000000
+      internalID: 6546113667386719270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_96
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 109
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350d4e74c097079a0800000000000000
+      internalID: -6237352390255390637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_97
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 128
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40f1df12da8fdba0800000000000000
+      internalID: -6061973938335780787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_98
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 130
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9d865085cc50210800000000000000
+      internalID: 1298668745986202101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_99
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 115
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfcc76a797ab3ec0800000000000000
+      internalID: -3586088408495370312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_100
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 87
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025436b8c505ff3f0800000000000000
+      internalID: -864884245026093792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_101
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 93
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc3b3fa5d281fa30800000000000000
+      internalID: 4247319777866628273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_102
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 65
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4a5e6caaaf5dc20800000000000000
+      internalID: 3230763919096521924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_103
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 63
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc57fbaf4bd54ea0800000000000000
+      internalID: -5889059802483041064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_104
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 129
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e10cfbf365849400800000000000000
+      internalID: 330035337180742117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_105
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 65
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a269ac8ad4ac4420800000000000000
+      internalID: 2615646742165152425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_106
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 68
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b0c79f8e3466fc0800000000000000
+      internalID: -3502036992336852121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500a5302e61fe1380800000000000000
+      internalID: -8998489550150590459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_108
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 35
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f908dc0f75139d420800000000000000
+      internalID: 2655207709083533471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_109
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 11
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deef685a9b52f2960800000000000000
+      internalID: 7579318177164099309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_110
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 9
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff13eea6398e7e110800000000000000
+      internalID: 1290255538116768255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_111
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a97ca0d82a118a0800000000000000
+      internalID: -6336104474078635509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseExpGain_112
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 8
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449d14c40a503d480800000000000000
+      internalID: -8875744254584825532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IncreaseExpGain_0: 1018820932017141637
+      IncreaseExpGain_1: 7037487605805663531
+      IncreaseExpGain_10: -7823928873372178490
+      IncreaseExpGain_100: -864884245026093792
+      IncreaseExpGain_101: 4247319777866628273
+      IncreaseExpGain_102: 3230763919096521924
+      IncreaseExpGain_103: -5889059802483041064
+      IncreaseExpGain_104: 330035337180742117
+      IncreaseExpGain_105: 2615646742165152425
+      IncreaseExpGain_106: -3502036992336852121
+      IncreaseExpGain_107: -8998489550150590459
+      IncreaseExpGain_108: 2655207709083533471
+      IncreaseExpGain_109: 7579318177164099309
+      IncreaseExpGain_11: -2989814157517613987
+      IncreaseExpGain_110: 1290255538116768255
+      IncreaseExpGain_111: -6336104474078635509
+      IncreaseExpGain_112: -8875744254584825532
+      IncreaseExpGain_12: 1577719658104944187
+      IncreaseExpGain_13: -7869807125026048641
+      IncreaseExpGain_14: 6085648724054058722
+      IncreaseExpGain_15: -7389913500907743737
+      IncreaseExpGain_16: -903751550825250798
+      IncreaseExpGain_17: -8689108780211000861
+      IncreaseExpGain_18: -1176200839030185251
+      IncreaseExpGain_19: 9151581227969173123
+      IncreaseExpGain_2: 2995031966063576367
+      IncreaseExpGain_20: 7600131586783930250
+      IncreaseExpGain_21: -4539282133593690104
+      IncreaseExpGain_22: -7220505861538310216
+      IncreaseExpGain_23: -530068519585997180
+      IncreaseExpGain_24: 1218436296288565397
+      IncreaseExpGain_25: 8245514987293451837
+      IncreaseExpGain_26: -7048922387242214287
+      IncreaseExpGain_27: -5511973762645809549
+      IncreaseExpGain_28: 2365857240825382671
+      IncreaseExpGain_29: 5825926535110604125
+      IncreaseExpGain_3: 7180716559253844706
+      IncreaseExpGain_30: 6424032202617652454
+      IncreaseExpGain_31: 378936663197620348
+      IncreaseExpGain_32: 9031502048236081248
+      IncreaseExpGain_33: 6254278170688505610
+      IncreaseExpGain_34: 3357652752522275563
+      IncreaseExpGain_35: 5261711725683745331
+      IncreaseExpGain_36: -1795754249895226806
+      IncreaseExpGain_37: 1470836535342749684
+      IncreaseExpGain_38: -2965270942368492276
+      IncreaseExpGain_39: -2974803193650865454
+      IncreaseExpGain_4: -4551218813668649526
+      IncreaseExpGain_40: 4217209427626514969
+      IncreaseExpGain_41: 5968932642870995642
+      IncreaseExpGain_42: -1851268629780417771
+      IncreaseExpGain_43: 7669099189324313920
+      IncreaseExpGain_44: -2102669019446626637
+      IncreaseExpGain_45: 6060094919818669392
+      IncreaseExpGain_46: 1290642493518097308
+      IncreaseExpGain_47: 2062757364056937528
+      IncreaseExpGain_48: -2402571655332389801
+      IncreaseExpGain_49: 6931297106013325352
+      IncreaseExpGain_5: -7726227750718224107
+      IncreaseExpGain_50: 2328895475808603899
+      IncreaseExpGain_51: -6127174623484110562
+      IncreaseExpGain_52: -2666526920959697190
+      IncreaseExpGain_53: -621373639393987104
+      IncreaseExpGain_54: 5209704481145946406
+      IncreaseExpGain_55: -7869542839153678725
+      IncreaseExpGain_56: 4130876300932896964
+      IncreaseExpGain_57: -3880796777265097501
+      IncreaseExpGain_58: 4722823223837715727
+      IncreaseExpGain_59: 2107669264720772776
+      IncreaseExpGain_6: 88875483858279193
+      IncreaseExpGain_60: 580220363710491725
+      IncreaseExpGain_61: -2116740934431875356
+      IncreaseExpGain_62: -3330459380176967977
+      IncreaseExpGain_63: 4946987287501326071
+      IncreaseExpGain_64: 837633156410044440
+      IncreaseExpGain_65: -8610547932528606573
+      IncreaseExpGain_66: -1731452800531522952
+      IncreaseExpGain_67: -2331791098262813046
+      IncreaseExpGain_68: -5966062395222870942
+      IncreaseExpGain_69: 196012759165687751
+      IncreaseExpGain_7: -6732008547516980849
+      IncreaseExpGain_70: -1111566159195628439
+      IncreaseExpGain_71: -7099195420798233247
+      IncreaseExpGain_72: -3313176923875081193
+      IncreaseExpGain_73: -3120773997214156636
+      IncreaseExpGain_74: -3298190929152000952
+      IncreaseExpGain_75: 5609464180175750335
+      IncreaseExpGain_76: -3262796739812949826
+      IncreaseExpGain_77: -5802380079516963414
+      IncreaseExpGain_78: 8381870697728868122
+      IncreaseExpGain_79: 5877451500005563041
+      IncreaseExpGain_8: -5833306171706281443
+      IncreaseExpGain_80: 5310391425943219749
+      IncreaseExpGain_81: 8118639698198364233
+      IncreaseExpGain_82: 3517869229165511553
+      IncreaseExpGain_83: 1915702183393084266
+      IncreaseExpGain_84: -646128732632047660
+      IncreaseExpGain_85: -4263916136499423926
+      IncreaseExpGain_86: 1077727325646280087
+      IncreaseExpGain_87: -8950814066459447951
+      IncreaseExpGain_88: 7974958609602304239
+      IncreaseExpGain_89: 3034645845026511103
+      IncreaseExpGain_9: -2582112145704273369
+      IncreaseExpGain_90: -4344454850896490350
+      IncreaseExpGain_91: 1177325923767798189
+      IncreaseExpGain_92: 5914135700026650855
+      IncreaseExpGain_93: -3748780165176902480
+      IncreaseExpGain_94: -1747993507672084887
+      IncreaseExpGain_95: 6546113667386719270
+      IncreaseExpGain_96: -6237352390255390637
+      IncreaseExpGain_97: -6061973938335780787
+      IncreaseExpGain_98: 1298668745986202101
+      IncreaseExpGain_99: -3586088408495370312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

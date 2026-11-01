@@ -25,6 +25,8 @@ public class PlayerDeadZone : MonoBehaviour
                 break;
 
         }
-        Destroy(collision.gameObject);
+        collision.gameObject.SetActive(false);
     }
+
+    public static void ProjectileHit(int amount) { OnProjectileHit?.Invoke(amount);}
 }
